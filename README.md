@@ -9,7 +9,8 @@ This is the Ansible Collection ``l3d.avahi``.
 Here are all our ansible roles for installing git server.
 
 ## Ansible Roles in l3d.avahi
-tbd.
++ [![l3d.avahi.client](https://ansible.l3d.space/svg/l3d.avahi.client_ansible-role.svg)](https://galaxy.ansible.com/l3d/avahi_client)
++ [![l3d.avahi.daemon](https://ansible.l3d.space/svg/l3d.avahi.daemon_ansible-role.svg)](https://galaxy.ansible.com/l3d/avahi_daemon)
 
 ## Using this Collection
 You can install the collection using ansible-galaxy by running:
@@ -37,6 +38,6 @@ You can also list a collection in ``requirements.yml``:
 ---
 collections:
   - name: l3d.avahi
-    version: ">=0.1.0"
+    version: ">=0.1.2"
 ```
 

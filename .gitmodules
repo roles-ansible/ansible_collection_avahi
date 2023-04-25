@@ -1,0 +1,7 @@
+[submodule "roles/daemon"]
+	path = roles/daemon
+  branch = main
+	url = https://github.com/roles-ansible/ansible_role_avahi_daemon.git
+[submodule "roles/client"]
+	path = roles/client
+	url = https://github.com/roles-ansible/ansible_role_avahi_client.git

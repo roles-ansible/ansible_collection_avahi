@@ -1,4 +1,4 @@
-[![collection l3d.avahi](https://ansible.l3d.space/svg/l3d.avahi_ansible-collection_collection.svg)](https://galaxy.ansible.com/l3d/avahi)
+[![collection l3d.avahi](https://ansible.l3d.space/svg/l3d.avahi_ansible-collection_collection.svg)](https://galaxy.ansible.com/ui/repo/published/l3d/avahi/)
 [![Maintainance](https://ansible.l3d.space/svg/l3d.avahi_maintainance_collection.svg)](https://ansible.l3d.space/#l3d.avahi)
 [![License](https://ansible.l3d.space/svg/l3d.avahi_license_collection.svg)](LICENSE)
 
@@ -9,8 +9,8 @@ This is the Ansible Collection ``l3d.avahi``.
 Here are all our ansible roles for installing git server.
 
 ## Ansible Roles in l3d.avahi
-+ [![l3d.avahi.client](https://ansible.l3d.space/svg/l3d.avahi.client_ansible-role.svg)](https://galaxy.ansible.com/l3d/avahi_client)
-+ [![l3d.avahi.daemon](https://ansible.l3d.space/svg/l3d.avahi.daemon_ansible-role.svg)](https://galaxy.ansible.com/l3d/avahi_daemon)
++ [![l3d.avahi.client](https://ansible.l3d.space/svg/l3d.avahi.client_ansible-role.svg)](https://galaxy.ansible.com/ui/standalone/roles/l3d/avahi_client/)
++ [![l3d.avahi.daemon](https://ansible.l3d.space/svg/l3d.avahi.daemon_ansible-role.svg)](https://galaxy.ansible.com/ui/standalone/roles/l3d/avahi_daemon/)
 
 ## Using this Collection
 You can install the collection using ansible-galaxy by running:

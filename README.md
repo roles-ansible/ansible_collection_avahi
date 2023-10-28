@@ -38,6 +38,6 @@ You can also list a collection in ``requirements.yml``:
 ---
 collections:
   - name: l3d.avahi
-    version: ">=1.0.0"
+    version: ">=1.0.2"
 ```
 

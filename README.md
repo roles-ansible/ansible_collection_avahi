@@ -15,7 +15,7 @@ Here are all our ansible roles for installing git server.
 ## Using this Collection
 You can install the collection using ansible-galaxy by running:
 ```bash
-ansible-galaxy collection install l3d.avahi:1.0.3
+ansible-galaxy collection install l3d.avahi:1.0.4
 ```
 
 Or you could clone this collection in your local ansible project for example to ``collections/ansible_collections/l3d/avahi/``. Make sure you checkout [git submodules](https://git-scm.com/docs/git-submodule) too. Example:
@@ -38,6 +38,6 @@ You can also list a collection in ``requirements.yml``:
 ---
 collections:
   - name: l3d.avahi
-    version: ">=1.0.3"
+    version: ">=1.0.4"
 ```
 
